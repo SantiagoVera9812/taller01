@@ -1,0 +1,4 @@
+Nombre del cliente: ade
+Cantidad de productos comprados: 12
+Precio unitario de los productos: 3
+Total a pagar: 36
